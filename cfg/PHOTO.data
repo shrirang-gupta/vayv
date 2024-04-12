@@ -1,0 +1,3 @@
+classes=1
+train=C:\Users\vrind\Downloads\segmentationnproject\Dataset\train
+names=data/photo.names
